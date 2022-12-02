@@ -2,7 +2,7 @@ Hi 👋 We are Exortis
 =========================
 
 * 🌍  We're based in The Netherlands
-* 🖥️  See our work here on github or on [my own website](https://exortis.com)
+* 🖥️  See our work here on github or on [our website](https://exortis.com)
 * ✉️  You can contact me through my [email](mailto:contact@exortis.com)
 * 🤝  We're open to collaborating on interesting projects
 
